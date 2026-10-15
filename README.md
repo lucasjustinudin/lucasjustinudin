@@ -6,8 +6,8 @@
   <h1>👋 Hey there! I'm lucasjustinudin</h1>
 
   <p align="center">
-    <b>Security Researcher & Builder</b><br>
-    <i>Hunting real bugs, shipping working PoCs, automating everything in between.</i>
+    <b>CYBERSECURITY RESEARCHER &amp; FULL-STACK DEVELOPER</b><br>
+    <i>Offensive security &amp; full-stack builder — shipping security research and software that make systems stronger and attackers' lives harder. Bug bounty, AI security, marketplace infra, automation.</i>
   </p>
 
   <p align="center">
@@ -27,11 +27,16 @@
 
 ### ⚡ About Me
 
-- 🔍 Bug bounty hunter — API security first, breadth always
-- 🛠️ Builder of tools that actually run in production
-- ⚙️ Automation, scraping, and infra as a force multiplier
-- 🧪 Theory is worthless without proof — working PoC is everything
-- 🐛 Found a bug in my stuff? Open an issue.
+I focus on application security analysis, AI/ML attack research, and building secure
+software infrastructure. Beyond probing for vulnerabilities and testing security
+boundaries, I build automation tooling and production-scale systems.
+
+Combining an offensive mindset with robust system architecture principles to create
+adaptive protection.
+
+**Focus areas**
+
+`Offensive Security` · `AI Security` · `Detection Engineering` · `Software Engineering` · `Cloud Security` · `Reverse Engineering`
 
 ---
 
@@ -88,18 +93,12 @@
 
 ### 🚀 Highlighted Work
 
-<div align="center">
-
-| Repo | What |
-|---|---|
-| [**suika-hub**](https://github.com/lucasjustinudin/suika-hub) | Modular vulnerability scanning hub — async engine, AI analysis, browser capture |
-| [**recon-agent**](https://github.com/lucasjustinudin/recon-agent) | Multi-agent security recon toolkit powered by LLM reasoning |
-| [**docuflow-id**](https://github.com/lucasjustinudin/docuflow-id) | AI document processing for Indonesian business docs — invoices, tax, receipts |
-| [**kios-ai**](https://github.com/lucasjustinudin/kios-ai) | AI customer service & inventory for retail kiosk networks via WhatsApp |
-| [**9router**](https://github.com/lucasjustinudin/9router) | Multi-provider LLM router (fork + ops) |
-| [**metamorfosis-kupu-kupu**](https://github.com/lucasjustinudin/metamorfosis-kupu-kupu) | 🦋 Interactive educational PWA for kids |
-
-</div>
+- [**suika-hub**](https://github.com/lucasjustinudin/suika-hub) — Modular vulnerability scanning hub: async engine, AI analysis, browser capture
+- [**recon-agent**](https://github.com/lucasjustinudin/recon-agent) — Multi-agent security recon toolkit powered by LLM reasoning
+- [**docuflow-id**](https://github.com/lucasjustinudin/docuflow-id) — AI document processing for Indonesian business docs: invoices, tax, receipts
+- [**kios-ai**](https://github.com/lucasjustinudin/kios-ai) — AI customer service & inventory for retail kiosk networks via WhatsApp
+- [**9router**](https://github.com/lucasjustinudin/9router) — Multi-provider LLM router (fork + ops)
+- [**metamorfosis-kupu-kupu**](https://github.com/lucasjustinudin/metamorfosis-kupu-kupu) — 🦋 Interactive educational PWA for kids
 
 ---
 
