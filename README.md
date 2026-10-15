@@ -11,14 +11,14 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/lucasjustinudin" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-lucasjustinudin-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <a href="https://hdnsbr.web.id" target="_blank" title="Portfolio">
+      <img src="https://img.shields.io/badge/-a8d94d?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwIi8+PHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTB6Ii8+PC9zdmc+" alt="Portfolio" />
     </a>
-    <a href="https://twitter.com/lucasjustinudin" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-@lucasjustinudin-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+    <a href="https://twitter.com/lucasjustinudin" target="_blank" title="Twitter">
+      <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
     </a>
-    <a href="mailto:hadiyana.sobur@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-hadiyana.sobur-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="mailto:hadiyana.sobur@gmail.com" target="_blank" title="Email">
+      <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIyIiB5PSI0IiB3aWR0aD0iMjAiIGhlaWdodD0iMTYiIHJ4PSIyIi8+PHBhdGggZD0ibTIgNyAxMCA2IDEwLTYiLz48L3N2Zz4=" alt="Email" />
     </a>
   </p>
 </div>
